@@ -9,6 +9,11 @@ Please make sure you node.js on your computer
 ```
 npm install -g node
 
+```
+
+Run npm to install node modules
+
+```
 npm install
 
 ```
