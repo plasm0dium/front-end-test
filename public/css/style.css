@@ -1,0 +1,100 @@
+body {
+	background-color: #ff8a65;
+}
+
+.sign-in-component {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.header-text {
+	color: #fafafa;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #fafafa;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+  color: #fafafa;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+  color: #fafafa;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  color: #fafafa;
+}
+
+input {
+	color: #fafafa;
+}
+
+.show-hide-toggle {
+  position: fixed;
+  color: #fafafa;
+  right: 10px;
+}
+
+.alert-message {
+	background-color: #fafafa;
+  border-radius: 2px;
+  padding: 10px;
+  color: #f44336;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.list-button {
+	text-align: center;
+  margin-top: 15%;
+}
+
+.list-button button {
+	margin: 0 15px;
+}
+
+.list-states a {
+	border-radius: 2px;
+  background-color: #fbe9e7;
+  padding: 10px 10px;
+  color: #00b0ff;
+  margin: 1px 1px;
+  display: inline-block;
+}
+
+.state-link {
+	margin-top: 20px;
+}
+
+.state-detail {
+  margin: 20px auto;
+  background-color: #e1f5fe;
+  padding: 15px 28px;
+  color: #263238;
+}
+
+.message-component {
+	margin: 30px auto;
+}
+
+.list-messages{
+	background-color: #fafafa;
+  margin: 10px auto;
+  text-align: center;
+  font-weight: 600;
+  font-family: sans-serif;
+  border-radius: 20px;
+}
+
+.user-phone {
+	padding-left: 10px;
+}
+
+.user-message {
+	display: block;
+}
