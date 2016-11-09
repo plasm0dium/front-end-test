@@ -33,6 +33,7 @@ npm run dev
 #What libraries did you use to write your application?
 * React
 * Redux
+* React-Redux
 * Materialize
 * Webpack
 * Axios
