@@ -55,6 +55,8 @@ npm run dev
 
 * Cookie checks to see if user log in and component survive after refresh on browser.
 
+* Convert phone number to specific format.
+
 #What steps did you take to insure your application was secure?
 * Message component will not show if user does not log in hence user won't be able to add phone and message.
 
