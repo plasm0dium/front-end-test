@@ -4,7 +4,7 @@
 Please fork or download this repository to start testing this application
 
 ## Installation
-Please make sure you node.js on your computer
+Please make sure you install node.js on your computer
 
 ```
 npm install -g node
